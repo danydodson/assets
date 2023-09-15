@@ -406,6 +406,7 @@
   padding: 0 1em;
   color: var(--color-fg-muted);
   border-left: .25em solid var(--color-border-default);
+  background: #f3f3f3 !important;
 }
 
 .markdown-body ul,
@@ -782,6 +783,7 @@
   margin: 0;
   font-size: 85%;
   white-space: break-spaces;
+  /* background-color: #282C34; */
   background-color: var(--color-neutral-muted);
   border-radius: 6px;
 }
