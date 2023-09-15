@@ -52,7 +52,8 @@ code.hljs {
 .hljs-selector-pseudo,
 .hljs-template-variable,
 .hljs-type,
-.hljs-variable {
+.hljs-variable,
+.hljs-variable.constant {
 	color: #d19a66
 }
 
@@ -65,9 +66,17 @@ code.hljs {
 	color: #61aeee
 }
 
+.hljs-operator {
+	color: #61aeee
+}
+
 .hljs-built_in,
 .hljs-class .hljs-title,
 .hljs-title.class_ {
+	color: #e6c07b
+}
+
+.hljs-punctuation {
 	color: #e6c07b
 }
 

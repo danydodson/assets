@@ -55,10 +55,12 @@ body.showEditorSelection li.code-line:hover:before {
 
 .vscode-dark.showEditorSelection .code-active-line:before {
   border-left: 3px solid rgba(0, 0, 0, 0.15);
+  /* border-left: 3px solid rgba(0, 0, 0, 0.15); */
 }
 
 .vscode-dark.showEditorSelection .code-line:hover:before {
-  border-left: 3px solid rgba(0, 0, 0, 0.40);
+  border-left: 3px solid rgba(0, 0, 0, 0.07);
+  /* border-left: 3px solid rgba(0, 0, 0, 0.40); */
 }
 
 .vscode-dark.showEditorSelection .code-line .code-line:hover:before {
@@ -154,6 +156,7 @@ blockquote {
   padding: 0 16px 0 10px;
   border-left-width: 5px;
   border-left-style: solid;
+  border-color: #dadada;
 }
 
 code {

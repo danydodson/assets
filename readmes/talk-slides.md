@@ -3,10 +3,10 @@ title: Talk slides template
 tags: Templates, Talk
 description: View the slide with "Slide Mode".
 ---
-
 # Unleash the power!
 
 <!-- Put the link to this slide here so people can follow -->
+
 slide: https://hackmd.io/p/template-Talk-slide
 
 ---
@@ -20,8 +20,8 @@ please prepare laptop or smartphone to join!
 ## Who am I?
 
 - Front-end developer
-- VSCode :heart: 
-- I use tabs. :cat: 
+- VSCode :heart:
+- I use tabs. :cat:
 
 ---
 
@@ -29,14 +29,13 @@ please prepare laptop or smartphone to join!
 
 ---
 
-{%youtube E8Nj7RwXf0s %}
+{%youtube E8Nj7RwXf0s%}
 
 ---
 
 ### Usage flow
 
 ---
-
 
 ```graphviz
 digraph {
@@ -86,7 +85,7 @@ digraph {
 
 ---
 
-# :fork_and_knife: 
+# :fork_and_knife:
 
 ---
 
@@ -104,7 +103,7 @@ code.orange {
 
 ---
 
-# :bulb: 
+# :bulb:
 
 ---
 
@@ -149,11 +148,11 @@ console.log(isLogin) //-> true
 
 - Cross envornment commnication
 - A small library to solve messaging pain
-- TypeScript Rocks :tada: 
+- TypeScript Rocks :tada:
 
 ---
 
-### Thank you! :sheep: 
+### Thank you! :sheep:
 
 You can find me on
 
