@@ -180,12 +180,12 @@ pre code {
 
 /** Theming */
 
-/* .vscode-dark pre {
+.vscode-dark pre {
   background-color: rgba(220, 220, 220, 0.4);
-} */
+}
 
 .vscode-dark pre {
-  background-color: rgb(40, 44, 52, 1);
+  background-color: rgba(40, 44, 52, 1);
   /* background-color: rgba(10, 10, 10, 0.4); */
 }
 
