@@ -404,9 +404,9 @@
 .markdown-body blockquote {
   margin: 0;
   padding: 0 1em;
+  background-color: var(--color-canvas-subtle);
   color: var(--color-fg-muted);
   border-left: .25em solid var(--color-border-default);
-  background-color: #f3f3f3;
 }
 
 .markdown-body ul,
