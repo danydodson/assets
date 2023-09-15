@@ -185,7 +185,8 @@ pre code {
 } */
 
 .vscode-dark pre {
-background-color: rgba(10, 10, 10, 0.4);
+  background-color: #282C34;
+  /* background-color: rgba(10, 10, 10, 0.4); */
 }
 
 .vscode-high-contrast pre {
